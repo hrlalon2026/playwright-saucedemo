@@ -151,3 +151,18 @@ This will generate a detailed HTML report including:
 
 ---
 
+# Demo
+### Scenario-1: Locked User Login Validation
+https://drive.google.com/file/d/17Fi5gNofO9NbUNCKCkA2e-sLZRFVDJ_N/view?usp=sharing
+
+### Scenario-2: Standard User Complete Purchase Flow
+https://drive.google.com/file/d/1RCBiwwUeZVLZghPiSEfMM_j0_avTPspj/view?usp=sharing
+
+### Scenario -3: Performance User Sorting & Purchase Flow
+https://drive.google.com/file/d/1Q-_OK5MpaAxn-h9dNntVtE6Fs56qBDga/view?usp=sharing
+
+### Full Suite Journey and Get Allure Report.
+https://drive.google.com/file/d/1VAQPmQPvWWC-6IVOSYl9VtC727Ekw8Ok/view?usp=sharing
+
+
+
